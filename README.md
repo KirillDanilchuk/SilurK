@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @SilurK
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SilurK/SilurK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Kirill.
+- 👀 I’m interested in Concurrency.
+- 🌱 I’m currently learning English language.
+- 💞️ I’m looking to collaborate on Yandex.
+- 📫 How to reach me https://t.me/Silur_Kir.
